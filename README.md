@@ -8,6 +8,9 @@
 ###### Heading 6
 
 **text bold**
+
 *text garis miring*
+
 ~~text strikethrough~~
+
 ***text bold dan garis miring***
