@@ -14,3 +14,16 @@
 ~~text strikethrough~~
 
 ***text bold dan garis miring***
+
+### Quoting Code
+contoh :
+Beberapa perintah dasar git adalah ( menggunakan tanda petik 1 - lihat di editor ):
+'git status'
+'git add'
+'git commit'
+
+
+### Link
+
+cara membuat link dengan : '[GitHub Pages] (https://pages.github.com/)'
+hasilnya : [GitHub Pages] (https://pages.github.com/)
