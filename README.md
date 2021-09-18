@@ -25,6 +25,6 @@ Beberapa perintah dasar git adalah ( menggunakan tanda petik 1 - lihat di editor
 
 ### Link
 
-cara membuat link dengan : '[GitHub Pages](https://pages.github.com/)'
+cara membuat link dengan membungkus text dengan bracket [] lalu tanpa spasi setelahnya membungkus url dengan ()
 
 hasilnya : [GitHub Pages](https://pages.github.com/)
