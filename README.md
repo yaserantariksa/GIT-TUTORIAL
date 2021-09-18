@@ -28,3 +28,6 @@ Beberapa perintah dasar git adalah ( menggunakan tanda petik 1 - lihat di editor
 cara membuat link dengan membungkus text dengan bracket [] lalu tanpa spasi setelahnya membungkus url dengan ()
 
 hasilnya : [GitHub Pages](https://pages.github.com/)
+
+### Realatif Link
+cara membuat relative link adalah dengan membungkus text dengan [] lalu tanpa spasi setelahnya membunguks alamat relative file dengan () contoh (docs/README.md)
