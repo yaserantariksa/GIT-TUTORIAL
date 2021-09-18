@@ -31,3 +31,8 @@ hasilnya : [GitHub Pages](https://pages.github.com/)
 
 ### Realatif Link
 cara membuat relative link adalah dengan membungkus text dengan [] lalu tanpa spasi setelahnya membunguks alamat relative file dengan () contoh (docs/README.md)
+
+### Menyertakan Gambar
+menampilkan gambar dengan cara menambah ! lalu membungkus text dengan [ ] lalu membungkus link dalam ( )
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
